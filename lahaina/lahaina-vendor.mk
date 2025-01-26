@@ -692,6 +692,7 @@ PRODUCT_PACKAGES += \
     libcdsprpc \
     libdiag \
     libdsutils \
+    libfastcvopt \
     libidl \
     libmdmdetect \
     libmiracast \
@@ -985,6 +986,7 @@ PRODUCT_PACKAGES += \
     libipebpsstriping170 \
     libjnihelper \
     libjpege \
+    libkeymasterdeviceutils \
     liblistensoundmodel2 \
     libloadalgo_stub \
     liblqe \
@@ -1058,6 +1060,7 @@ PRODUCT_PACKAGES += \
     libsns_registry_skel \
     libsnsapi \
     libsnsdiaglog \
+    libspcom \
     libspectre \
     libspl \
     libssc \
