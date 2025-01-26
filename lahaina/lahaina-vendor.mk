@@ -710,8 +710,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libwfddisplayconfig_proprietary \
     libwfdhdcpcp \
-    libsns_device_mode_skel \
-    libsns_low_lat_stream_skel \
     vendor.qti.hardware.bluetooth_sar@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.qconfig@1.0 \
@@ -1275,3 +1273,7 @@ PRODUCT_PACKAGES += \
     wfdhdcphalservice \
     wfdvndservice \
     wifidisplayhalservice
+
+PRODUCT_PACKAGES += \
+    libsns_device_mode_skel_libsns_device_mode_skel_symlink64 \
+    libsns_low_lat_stream_skel_libsns_low_lat_stream_skel_symlink64
