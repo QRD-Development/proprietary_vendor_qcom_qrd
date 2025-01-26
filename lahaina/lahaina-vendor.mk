@@ -911,7 +911,6 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libI420colorconvert \
     libQSEEComAPI \
     libQTEEConnector_listener \
     libQTEEConnector_vendor \
