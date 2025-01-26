@@ -899,23 +899,7 @@ PRODUCT_PACKAGES += \
     lib-rtpcommon \
     lib-rtpcore \
     lib-rtpsl \
-    libAlacSwDec \
-    libApeSwDec \
-    libFlacSwDec \
     libI420colorconvert \
-    libMpeghSwEnc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAlacDecSw \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxApeDecSw \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxMpeghEncSw \
-    libOmxQcelp13Dec \
-    libOmxWmaDec \
     libTouchInputVM \
     libTrustedInput \
     libTrustedInputTZ \
