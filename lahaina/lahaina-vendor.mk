@@ -1068,6 +1068,7 @@ PRODUCT_PACKAGES += \
     libsysmon_cdsp_skel \
     libthreadutils \
     libtime_genoff \
+    libtrustedapploader \
     libtzdrmgenprov \
     libvppclient \
     libvpphcp \
