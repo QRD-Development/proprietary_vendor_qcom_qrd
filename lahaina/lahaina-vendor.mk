@@ -716,7 +716,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.qconfig@1.0 \
     vendor.qti.hardware.sigma_miracast@1.0 \
-    vendor.qti.hardware.vpp@2.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
     libFileMux_proprietary \
     libOmxVideoDSMode \
@@ -741,6 +740,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsrc_proprietary \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
+    vendor.qti.hardware.vpp@2.0 \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     android.hardware.secure_element@1.0-impl \
     com.qti.eeprom.gt24p128c2csli_imx766 \
@@ -1150,9 +1150,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.trustedui@1.1 \
     vendor.qti.hardware.trustedui@1.2 \
     vendor.qti.hardware.tui_comm@1.0 \
-    vendor.qti.hardware.vpp@1.1 \
-    vendor.qti.hardware.vpp@1.2 \
-    vendor.qti.hardware.vpp@1.3 \
     vendor.qti.ims.callcapability@1.0 \
     vendor.qti.ims.callinfo@1.0 \
     vendor.qti.ims.configservice@1.0 \
