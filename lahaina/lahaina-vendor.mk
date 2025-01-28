@@ -692,14 +692,13 @@ PRODUCT_PACKAGES += \
     libcdsprpc \
     libdiag \
     libdsutils \
+    libfastcvdsp_stub \
     libfastcvopt \
     libidl \
     libmdmdetect \
     libmiracast \
     libmmosal_vendor \
-    libqc2vppfilter \
     libqcci_legacy \
-    libqconfigclient \
     libqmi \
     libqmi_cci \
     libqmi_client_helper \
@@ -721,7 +720,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_sar@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.dsp@1.0 \
-    vendor.qti.hardware.qconfig@1.0 \
     vendor.qti.hardware.sigma_miracast@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     libFileMux_proprietary \
@@ -747,7 +745,6 @@ PRODUCT_PACKAGES += \
     libwfduibcsrc_proprietary \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
-    vendor.qti.hardware.vpp@2.0 \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     android.hardware.secure_element@1.0-impl \
     com.qti.eeprom.gt24p128c2csli_imx766 \
@@ -972,7 +969,6 @@ PRODUCT_PACKAGES += \
     libeepromcutter \
     libembmsservice \
     libesepmconfig \
-    libfastcvdsp_stub \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
@@ -986,7 +982,6 @@ PRODUCT_PACKAGES += \
     libipebpsstriping170 \
     libjnihelper \
     libjpege \
-    libkeymasterdeviceutils \
     liblistensoundmodel2 \
     libloadalgo_stub \
     liblqe \
@@ -1020,7 +1015,6 @@ PRODUCT_PACKAGES += \
     libpdmapper \
     libpdnotifier \
     libperipheral_client \
-    libqcbor \
     libqcmaputils \
     libqcrilNr \
     libqcrilNrFramework \
@@ -1249,7 +1243,6 @@ PRODUCT_PACKAGES += \
     android.hardware.authsecret@1.0-service-qti \
     android.hardware.bluetooth@1.0-service-qti \
     android.hardware.drm@1.3-service.widevine \
-    qconfigservice \
     qcrilNrd \
     vendor.qti.esepowermanager@1.1-service \
     vendor.qti.hardware.capabilityconfigstore@1.0-service \
